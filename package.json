@@ -1,6 +1,6 @@
 {
   "name": "use-liquid-glass-ui",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A lightweight glassmorphism UI component library for React using plain CSS.",
   "author": "Tejas Dhodi",
   "license": "MIT",
@@ -15,7 +15,9 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "peerDependencies": {
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
