@@ -20,13 +20,13 @@
 ## 📦 Installation
 
 ```bash
-npm install liquid-glass-ui
+npm install use-liquid-glass-ui
 ```
 
 or
 
 ```bash
-yarn add liquid-glass-ui
+yarn add use-liquid-glass-ui
 ```
 
 ---
@@ -34,7 +34,7 @@ yarn add liquid-glass-ui
 ## 🚀 Usage
 
 ```tsx
-import { GlassCard } from 'liquid-glass-ui'
+import { GlassCard } from 'use-liquid-glass-ui'
 
 function App() {
   return (
